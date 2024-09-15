@@ -100,7 +100,7 @@ The instructions for this mini project are divided into the following subsection
 1. Inspect the four CSV files, and then sketch an ERD of the tables by using QuickDBDLinks to an external site..
 2. Use the information from the ERD to create a table schema for each CSV file.
 3. Save the database schema as a Postgres file named crowdfunding_db_schema.sql, and save it to your GitHub repository.
-4. Create a new Postgres database, named crowdfunding_db.
+4. Create a new Postgres database, named etl1.
 5. Using the database schema, create the tables in the correct order to handle the foreign keys.
 6. Verify the table creation by running a SELECT statement for each table.
 7. Import each CSV file into its corresponding SQL table.
